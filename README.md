@@ -1,0 +1,4 @@
+This project analyzes customer reviews from Zomato using Natural Language Processing (NLP) techniques. The goal is to clean and preprocess review data, removing noise and inconsistencies, and then perform sentiment analysis to gain insights into customer satisfaction. Key tasks included text cleaning (removing non-alphabetic characters, converting to lowercase, and tokenization), stopword removal (excluding negations like 'not'), and lemmatization to standardize the text data. The processed data was then used to categorize sentiments, providing valuable insights into customer feedback.
+
+Technologies used include Python, Pandas, NLTK, and Regex for text processing and analysis. This project demonstrates how structured text data can be used to extract actionable insights, helping businesses better understand customer opinions and improve their services.
+
